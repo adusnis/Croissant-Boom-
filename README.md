@@ -61,7 +61,7 @@ git clone https://github.com/adusnis/Croissant-Boom-
 cd croissant-boom
 
 # Run the project
-java -jar --module-path "C:your\pathk\your\javafx-sdk\lib" --add-modules javafx.controls,javafx.fxml,javafx.media croissant.jar
+java -jar --module-path "C:your\path\your\javafx-sdk\lib" --add-modules javafx.controls,javafx.fxml,javafx.media croissant.jar
 ```
 
 ## 📬 Contact
