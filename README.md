@@ -8,7 +8,7 @@ Watch our project presentation here: [CROISSANT BOOM Video](https://youtu.be/s_b
 
 ## 👥 Contributors
 This project was collaboratively developed by:
-- **Sinsuda Rakporpiang** (@sinsudaR)
+- **Sinsuda Rakporpiang** (@adusnis)
 - **Ratima Klabprasit** (@ditdyiy)
 - **Jiratchaya Kunyaphila** (@Jibtea)
 - **Puckanut Laoarpasuwong** (@puz91)
