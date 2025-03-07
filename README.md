@@ -16,7 +16,7 @@ This project was collaboratively developed by:
 ## 📚 Game Rules
 1. **Bake Croissants:** Players place croissants in the oven and bake them for a set time.
 2. **Baking Times & Scores:**
-   - Regular Croissant: 5 seconds (100 points)
+   - Classic Croissant: 5 seconds (100 points)
    - Salad Croissant: 6 seconds (120 points)
    - Rainbow Croissant: 8 seconds (250 points)
 3. **Penalties:**
