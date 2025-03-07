@@ -20,8 +20,8 @@ This project was collaboratively developed by:
    - Salad Croissant: 6 seconds (120 points)
    - Rainbow Croissant: 8 seconds (250 points)
 3. **Penalties:**
-   - Undercooked croissants: -100 points
-   - Burned croissants: -150 points
+   - Serv undercooked croissants: -100 points
+   - Serv Burned croissants: -150 points
 4. **Tomato Bombs:** Croissants that touch a bomb burn instantly.
 5. **All actions (baking, discarding, serving) must be done within specific areas.**
 
