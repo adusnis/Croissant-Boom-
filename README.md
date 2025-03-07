@@ -55,7 +55,7 @@ Follow these steps to run the game locally:
 
 ```bash
 # Clone the repository
-git clone [<repository_url>](https://github.com/adusnis/Croissant-Boom-)
+git clone https://github.com/adusnis/Croissant-Boom-
 
 # Navigate to the project directory
 cd croissant-boom
